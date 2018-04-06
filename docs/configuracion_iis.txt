@@ -1,0 +1,7 @@
+Necesitamos:
+
+- habilitar autenticacion anonima en el sitio y deshabilitar autenticacion Windows
+- instalar PHP (5.6)
+- configurar controlador FastCGI
+- instalar y configurar modulo rewrites (rutas amigables)
+
